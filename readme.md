@@ -9,5 +9,7 @@ pip install numpy=1.17.2
 pip install sklearn
 pip install matplotlib=3.1.1
 pip install scipy=1.3.1
+pip install jupyter notebook
 
+RUN 'jupyter notebook' in this directory 
 
